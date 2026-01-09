@@ -1,3 +1,4 @@
+![Daily-To-Do-List-Printable-3-791x1024 jpg](https://github.com/user-attachments/assets/71360808-9aac-431d-ba4b-2d38ada88a5e)
 # TO-DO-list-application
 A minimalistic and responsive To-Do List App showcasing fundamental web development skills. Includes task management features and persistent data storage using local Storage.
 <!DOCTYPE html>
